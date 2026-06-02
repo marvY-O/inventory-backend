@@ -138,3 +138,4 @@ All errors return JSON:
 | 400    | Business rule violation         |
 | 404    | Resource not found              |
 | 422    | Request validation failed       |
+# inventory-backend
